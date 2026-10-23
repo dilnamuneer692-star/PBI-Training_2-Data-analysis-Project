@@ -38,7 +38,7 @@ This project is part of my Power BI training and helps me develop practical data
 ## 🖼️ Dashboard Preview
 Add a screenshot of your Power BI dashboard here.
 
-![Sales Data Analysis Dashboard][<img width="882" height="483" alt="image_final-report" src="https://github.com/user-attachments/assets/52204b2c-6e35-4f0f-be6a-71520dc05236" />]
+![Data Analysis Dashboard][<img width="882" height="483" alt="image_final-report" src="https://github.com/user-attachments/assets/52204b2c-6e35-4f0f-be6a-71520dc05236" />]
 
 
 ## 🔍 Key Insights
